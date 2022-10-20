@@ -1,0 +1,71 @@
+{
+    "contacts":[
+        {
+            "id":"AA@#$S123",
+            "name":"Alejandro",
+            "company":"HCL Technologies",
+            "email":"flor@gmail.com",
+            "title":"Software Engineer",
+            "mobile":"90990009090",
+            "photo":"https://cdn-icons-png.flaticon.com/128/3135/3135715.png",
+            "groupId":"3"
+        },
+        {
+            "id":"D6BNdWnHI",
+            "name":"Alejandro",
+            "company":"HCL Technologies",
+            "email":"flor@gmail.com",
+            "title":"Software Engineer",
+            "mobile":"90990009090",
+            "photo":"https://cdn-icons-png.flaticon.com/128/3135/3135715.png",
+            "groupId":"1"
+        },
+        {
+            "id":"AA@#$S179",
+            "name":"Alejandro",
+            "company":"HCL Technologies",
+            "email":"flor@gmail.com",
+            "title":"Software Engineer",
+            "mobile":"90990009090",
+            "photo":"https://cdn-icons-png.flaticon.com/128/3135/3135715.png",
+            "groupId":"2"
+        },
+        {
+            "id":"AA@#$S1911",
+            "name":"Alejandro",
+            "company":"HCL Technologies",
+            "email":"flor@gmail.com",
+            "title":"Software Engineer",
+            "mobile":"90990009090",
+            "photo":"https://cdn-icons-png.flaticon.com/128/3135/3135715.png",
+            "groupId":"1"
+        }
+    ],
+
+    "groups":[
+        {
+            "id":"1",
+            "name":"Colleague"
+        },
+        {
+            "id":"2",
+            "name":"Friend"
+        },
+        {
+            "id":"3",
+            "name":"Family"
+        },
+        {
+            "id":"4",
+            "name":"Service"
+        },
+        {
+            "id":"5",
+            "name":"Community"
+        },
+        {
+            "id":"6",
+            "name":"Social"
+        }
+    ]
+}
